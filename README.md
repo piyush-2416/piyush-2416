@@ -20,6 +20,10 @@
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 ![Git](https://skillicons.dev/icons?i=git)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Learning+Backend;Learning+AI&center=true&width=500&height=50">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer;Learning+Backend;Learning+Java+for+Problem+Solving&center=true&width=500&height=50">
