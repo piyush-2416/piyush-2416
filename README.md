@@ -12,9 +12,7 @@
 <hr>
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush-2416&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-2416&layout=compact&langs_count=8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-2416&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-2416&layout=compact&langs_count=8&hide=html,css)
 <hr>
 ## Skills
 
