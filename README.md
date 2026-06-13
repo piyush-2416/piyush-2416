@@ -12,8 +12,7 @@
 <hr>
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-2416&layout=compact&langs_count=8&hide=html,css)
-<hr>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-2416&layout=compact&langs_count=8)<hr>
 ## Skills
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
